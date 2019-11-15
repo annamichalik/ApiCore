@@ -1,0 +1,27 @@
+[
+  {
+    "id": "807d6a72-3b0a-4dd8-b8cd-df6c9a66563b",
+    "price": 17,
+    "name": "Chilly"
+  },
+  {
+    "id": "fae44529-2434-4c2f-94f7-ec4b83a485f0",
+    "price": 6,
+    "name": "Cool"
+  },
+  {
+    "id": "38e8cccd-92fc-4b28-9e20-208896591aba",
+    "price": 5,
+    "name": "Cool"
+  },
+  {
+    "id": "895deb2c-7c37-4882-81eb-e44c25d67401",
+    "price": 39,
+    "name": "Mild"
+  },
+  {
+    "id": "87f3e399-232b-4814-bf97-69fc398aae30",
+    "price": 9,
+    "name": "Sweltering"
+  }
+]
